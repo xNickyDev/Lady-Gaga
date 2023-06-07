@@ -4,7 +4,7 @@ description: Plays the provided track.
 
 # .play
 
-{% hint style="info" %} Our music system supports tracks by Spotify only. Any song links must be a valid Spotify track or playlist URL. {% endhint %}
+{% hint style="info" %} Our music system only supports tracks from Spotify. All song links must be a valid Spotify track or playlist URL. {% endhint %}
 
 ## Usage
 ```
